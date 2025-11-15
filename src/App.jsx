@@ -280,7 +280,7 @@ export default function LandingPage() {
             <Brain className="w-6 h-6 text-purple-400" />
             <span className="text-xl font-bold text-white">MindFlow</span>
           </div>
-          <p>© 2024 MindFlow. All rights reserved.</p>
+          <p>© 2024 MindFlow. All rights reserved yes.</p>
         </div>
       </footer>
     </div>
