@@ -155,7 +155,7 @@ function App() {
                 className="max-w-3xl text-[56px] leading-[1.05] tracking-tight text-[#091717] sm:text-[72px] lg:text-[84px]"
                 style={{ fontFamily: 'Newsreader, "Times New Roman", serif', fontWeight: 300 }}
               >
-                Docker, Ansible, and Terraform choreographed as one cosmic automation field.
+                Arveen ki mummy javan
               </h1>
               <p
                 className="max-w-2xl text-lg text-[#091717]/80 sm:text-2xl"
